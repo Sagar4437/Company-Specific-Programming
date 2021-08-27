@@ -34,4 +34,4 @@ def fun(s):
 	print(count)
 
 s = input('Enter a string ')
-fun('baceb')
+fun(s)
